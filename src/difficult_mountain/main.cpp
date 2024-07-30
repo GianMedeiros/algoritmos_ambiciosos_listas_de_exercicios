@@ -6,7 +6,7 @@ int tot=0, alp=0, d, n, i, x, y, m;
 
 vector<tuple<int, int, int>> lis_alp;
 
-
+// [max, habilidade, limpeza]
 
 int main(){
 

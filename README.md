@@ -17,9 +17,9 @@ O objetivo deste trabalho é abordar problemas de competições de programação
 
 Links de apresentação: 
 
-- [Difficult Mountain](https://codeforces.com/problemset/problem/1601/D) - [solução]()
+- [Difficult Mountain](https://codeforces.com/problemset/problem/1601/D) - [solução](https://youtu.be/XGthOmk4ibo)
 - [Festival de Estátuas de Gelo](https://judge.beecrowd.com/pt/problems/view/1034) - [solução]()
-- [Sapo Dinâmico](https://judge.beecrowd.com/pt/problems/view/1054) - [solução]()
+- [Sapo Dinâmico](https://judge.beecrowd.com/pt/problems/view/1054) - [solução](https://youtu.be/LuJ8YllnVtQ)
 
 <!-- <iframe width="560" height="315" src="files/videos/apresentacao.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 

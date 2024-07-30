@@ -18,7 +18,7 @@ O objetivo deste trabalho é abordar problemas de competições de programação
 Links de apresentação: 
 
 - [Difficult Mountain](https://codeforces.com/problemset/problem/1601/D) - [solução](https://youtu.be/XGthOmk4ibo)
-- [Festival de Estátuas de Gelo](https://judge.beecrowd.com/pt/problems/view/1034) - [solução]()
+- [Apagando e Ganhando](https://judge.beecrowd.com/pt/problems/view/1084) - [solução](https://youtu.be/31x_1Ptv8ns)
 - [Sapo Dinâmico](https://judge.beecrowd.com/pt/problems/view/1054) - [solução](https://youtu.be/LuJ8YllnVtQ)
 
 <!-- <iframe width="560" height="315" src="files/videos/apresentacao.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
@@ -30,10 +30,10 @@ Links de apresentação:
 
 ![Difficult Mountain](imgs/difficult_mountain.png)
 
-### Questão 2: [Festival de Estátuas de Gelo](https://judge.beecrowd.com/pt/problems/view/1034)
+### Questão 2: [Apagando e Ganhando](https://judge.beecrowd.com/pt/problems/view/1084)
 - Dificuldade nível 8 URI.
 
-![Festival de Estátuas de Gelo](imgs/festa_gelo_foto.png)
+![Apagando e Ganhando](imgs/apagando_e_ganhando.png)
 
 ### Questão 3: [Sapo Dinâmico](https://judge.beecrowd.com/pt/problems/view/1054)
 - Dificuldade nível 7 URI.
